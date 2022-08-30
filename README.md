@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HelloWolord
+- 👋 Hi, I’m @MagicManSam
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python, javascript and html
 - 💞️ I’m currently using this account for school
