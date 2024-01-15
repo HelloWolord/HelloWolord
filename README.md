@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MagicManSam
+- 👋 Hi, I’m @yogurtstrawberry3
 - 👀 I’m interested teardown
 - 🌱 I’m currently learning lua
 - 💞️ I’m currently using this account for teardown
