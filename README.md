@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MagicManSam
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning python, javascript and html
-- 💞️ I’m currently using this account for school
+- 👀 I’m interested teardown
+- 🌱 I’m currently learning lua
+- 💞️ I’m currently using this account for teardown
 - 📫 How to reach me, You don't
 
 <!---
